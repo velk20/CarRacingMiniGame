@@ -1,0 +1,10 @@
+C:\Users\angel\Desktop\CarRacingMiniGame\CarRacingMiniGame\bin\Debug\CarRacingMiniGame.exe.config
+C:\Users\angel\Desktop\CarRacingMiniGame\CarRacingMiniGame\bin\Debug\CarRacingMiniGame.exe
+C:\Users\angel\Desktop\CarRacingMiniGame\CarRacingMiniGame\bin\Debug\CarRacingMiniGame.pdb
+C:\Users\angel\Desktop\CarRacingMiniGame\CarRacingMiniGame\obj\Debug\CarRacingMiniGame.csprojAssemblyReference.cache
+C:\Users\angel\Desktop\CarRacingMiniGame\CarRacingMiniGame\obj\Debug\CarRacingMiniGame.MainForm.resources
+C:\Users\angel\Desktop\CarRacingMiniGame\CarRacingMiniGame\obj\Debug\CarRacingMiniGame.Properties.Resources.resources
+C:\Users\angel\Desktop\CarRacingMiniGame\CarRacingMiniGame\obj\Debug\CarRacingMiniGame.csproj.GenerateResource.cache
+C:\Users\angel\Desktop\CarRacingMiniGame\CarRacingMiniGame\obj\Debug\CarRacingMiniGame.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\CarRacingMiniGame\CarRacingMiniGame\obj\Debug\CarRacingMiniGame.exe
+C:\Users\angel\Desktop\CarRacingMiniGame\CarRacingMiniGame\obj\Debug\CarRacingMiniGame.pdb
